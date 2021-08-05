@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/shunxulianxi/shunxulianxi",
+    "pages/home/home"
+    
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#ededed",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "职通宝典"
+  },
+  "sitemapLocation": "sitemap.json"
+}

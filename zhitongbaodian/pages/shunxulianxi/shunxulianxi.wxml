@@ -1,0 +1,44 @@
+<!--pages/shunxulianxi/shunxulianxi.wxml-->
+<view class="sxlxBox">
+<!-- <view style="background: url(/imgsxiaocx/imgs/practice_bg.png) no-repeat;background-size:100%"></view> -->
+<image src="/imgsxiaocx/imgs/practice_bg.png" class="sxlxBoxPic"></image>
+<view class="sxlxBoxTop">
+<image src="/imgsxiaocx/imgs/practice_arrow.png"></image>
+<text>顺序练习</text>
+</view>
+<view class="sxlxtatel">
+<view class="tatel_tou">
+<image src="/imgsxiaocx/imgs/mine_head_default.png"></image>
+<text class="tname">Kiss</text>
+<view class="zhi">0 <text class="bai">%</text></view>
+<text class="tatel_touCheng">预测考试通过率</text>
+</view>
+<view class="tatel_test">
+<view class="tatel_testWei">
+<view class="tabel_testWei_up">784</view>
+<view class="tabel_testWei_down">未做题</view>
+</view>
+<view class="tatel_testWei">
+<view class="tabel_testWei_up">0</view>
+<view class="tabel_testWei_down">错题</view>
+</view>
+<view class="tatel_testWei">
+<view class="tabel_testWei_up">0%</view>
+<view class="tabel_testWei_down">正确率</view>
+</view>
+</view>
+<view class="tatel_floor">
+开始练习
+</view>
+</view>
+<view class="floor_icon">
+<view class="floor_icon_1">
+<image src="/imgsxiaocx/imgs/practice_random.png"></image>
+<view>随机练习</view>
+</view>
+<view class="floor_icon_2">
+<image src="/imgsxiaocx/imgs/practice_item.png"></image>
+<view>专项练习</view>
+</view>
+</view>
+</view>

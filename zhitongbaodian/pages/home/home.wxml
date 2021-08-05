@@ -1,0 +1,67 @@
+<!--pages/home.wxml-->
+<view class="box">
+<view class="tap_top">
+<image src="/imgsxiaocx/imgs/mine_bg.png" class="tap_topPic" ></image>
+<view class="tap_tou">
+<image src="/imgsxiaocx/imgs/mine_head_default.png"></image>
+<view class="tap_touBig">
+<view class="tap_touUp">Kiss</view>
+<view class="tap_touDown">当前考试通过率 0%</view>
+</view>
+</view>
+<view class="tap_vip">
+<view class="tap_vipPic">
+<image src="/imgsxiaocx/imgs/mine_top_vip.png"></image></view>
+<view class="tap_vipZi">
+<text>尊贵的VIP会员</text>
+<view>VIP解锁更多精选试题，赶紧体验吧！</view>
+</view>
+<image src="/imgsxiaocx/imgs/mine_top_button.png"  class="kaitong"></image>
+</view>
+</view>
+<!-- 内容 -->
+<view class="tboby">
+<!-- 钱包 -->
+<view class="tbody-top">
+<view class="tbody-topleft">
+<image src="/imgsxiaocx/imgs/mine_wallet.png" ></image>
+<text class="tbody-text1">0</text>
+<text class="tbody-text2">钱包余额（元）</text>
+<a href="#">收支明细</a>
+<image src="/imgsxiaocx/imgs/arrow.png" class="tbody-text2Pic"></image>
+</view>
+<view class="tbody-topRig">
+<view>
+<text class="topRig1">立即分享</text>
+<text class="topRig2">分享好友赚钱</text></view>
+</view>
+</view>
+<!-- 排行 -->
+<view class="tbody_floor">
+<view class="paihang">
+<image src="/imgsxiaocx/imgs/mine_app_1.png"></image>
+<text>成绩排行</text>
+</view>
+<view class="paihang">
+<image src="/imgsxiaocx/imgs/mine_app_2.png"></image>
+<text>模拟记录</text>
+</view>
+<view class="paihang">
+<image src="/imgsxiaocx/imgs/mine_app_3.png"></image>
+<text>分享推荐</text>
+</view>
+<view class="paihang">
+<image src="/imgsxiaocx/imgs/mine_app_4.png"></image>
+<text>我的错题</text>
+</view>
+<view class="paihang">
+<image src="/imgsxiaocx/imgs/mine_app_5.png"></image>
+<text>我的收藏</text>
+</view>
+<view class="paihang">
+<image src="/imgsxiaocx/imgs/mine_app_6.png"></image>
+<text>我的证书</text>
+</view>
+</view>
+</view>
+</view>
